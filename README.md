@@ -4,7 +4,11 @@ IKSHIT BHASKAR
 SIDDHANT VERMA
 INTRODUCTION TO OUR WEB APP AFTERTERROR: A Web app which detects nearest evacuation spots by evaluating the damage caused due to earthquake using a machine learning model.
 
-FEATURES: • Current location of the user will be given. • Nearest evacuation spots would be mentioned, inorder to inform the user where they should rush immediately. • Affected areas would be also be shown in the WebApp. • Quickest navigation route towards the affected areas will also be provided. • A Subsection of Twitter would be given to inorder to spread quick awareness among the people, where the trending tweets will be displayed.
+FEATURES: • Current location of the user will be given.
+• Nearest evacuation spots would be mentioned, inorder to inform the user where they should rush immediately. 
+• Affected areas would be also be shown in the WebApp. 
+• Quickest navigation route towards the affected areas will also be provided. 
+• A Subsection of Twitter would be given to inorder to spread quick awareness among the people, where the trending tweets will be displayed.
 
 IMPLEMENTATION: We can split the Implementation section of this Application into two sub-categories – The Machine Learning Model and the Web based Application.
 
