@@ -10,7 +10,7 @@ json_file.close()
 loaded_model = model_from_json(loaded_model_json)
 loaded_model.load_weights("keras_model.h5")
 
-data = pd.read_csv('data.csv')
+df = pd.read_csv('data.csv')
 
 app = Flask(__name__)
 
@@ -21,7 +21,7 @@ def make_prediction ():
     
     #ADD THE PARAMETERS WHICH HAVE TO BE REQUESTED FROM THE WEB SERVER
     
-    predict_request = [data['building_id']]
+    predict_request = [df.loc[df['building_id'] == data]]
     predict_request = np.array([predict_request])
     
     #ORGANISING THE RECIEVED DATA INTO THE RIGHT FORM
