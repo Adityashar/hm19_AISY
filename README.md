@@ -41,3 +41,9 @@ c)The app displays all nearby evacuation spots or ‘Safe-Zones’ and filters t
 d)It then automatically finds the fastest route to the Safe-Zone and navigates the user to that location using the pre trained Machine Learning Model.
 
 e)A sidebar with live twitter and newsroom updates on the ongoing situation will be displayed using twitter’s API and the user can tweet or push updates directly from the app in order to spread awareness and help others in need
+
+
+
+##VIDEO DRIVE LINK
+
+https://drive.google.com/drive/folders/1rTgWw5z8HEUqB5THOLBcrjXwbmszKado
